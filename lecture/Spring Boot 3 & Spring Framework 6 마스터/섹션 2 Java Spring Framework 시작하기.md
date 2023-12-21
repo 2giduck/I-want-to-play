@@ -1,11 +1,5 @@
 # 섹션 2. Java Spring Framework 시작하기
 
-최종 편집 일시: 2023년 12월 21일 오후 10:59
-즐겨찾기: No
-프로젝트: (강의)Spring Boot 3 & Spring Framework 6 마스터 (https://www.notion.so/Spring-Boot-3-Spring-Framework-6-afce3387ef4249d6860247e7bc6d8a95?pvs=21)
-상태: inbox
-영역: 개발 (https://www.notion.so/c09a0ad3a54348ff820deae0b1652e4b?pvs=21)
-
 ## 1단계 - Java Spring Framework가 필요한 이유 이해하기
 
 - Spring Framework

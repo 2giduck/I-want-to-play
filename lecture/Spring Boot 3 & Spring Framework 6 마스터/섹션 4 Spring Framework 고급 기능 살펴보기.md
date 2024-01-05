@@ -1,11 +1,5 @@
 # 섹션 4. Spring Framework 고급 기능 살펴보기
 
-최종 편집 일시: 2024년 1월 5일 오후 10:52
-즐겨찾기: No
-프로젝트: (강의)Spring Boot 3 & Spring Framework 6 마스터 (https://www.notion.so/Spring-Boot-3-Spring-Framework-6-afce3387ef4249d6860247e7bc6d8a95?pvs=21)
-상태: inbox
-영역: 개발 (https://www.notion.so/c09a0ad3a54348ff820deae0b1652e4b?pvs=21)
-
 ## 1단계 - Spring Framework Beans의 지연 초기화와 즉시 초기화 알아보기
 
 - default 초기화는 Eager 초기화

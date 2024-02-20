@@ -1,10 +1,4 @@
 # 섹션 8. Spring Boot와 Spring Framework, Hibernate로 Java REST API 생성하기
-
-최종 편집 일시: 2024년 2월 16일 오후 10:11
-즐겨찾기: No
-프로젝트: (강의)Spring Boot 3 & Spring Framework 6 마스터 (https://www.notion.so/Spring-Boot-3-Spring-Framework-6-afce3387ef4249d6860247e7bc6d8a95?pvs=21)
-상태: inbox
-
 ## 0단계 - Spring Boot로 REST API 생성하기 - 개요
 
 - 스프링 부트를 사용하는 이유
